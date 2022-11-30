@@ -1,0 +1,372 @@
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.exe
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.deps.json
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.runtimeconfig.json
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.dll
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.pdb
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.AssemblyReference.cache
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Form1.resources
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.GenerateResource.cache
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AssemblyInfoInputs.cache
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AssemblyInfo.cs
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.dll
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\refint\BankAppWinForm.dll
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.pdb
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.genruntimeconfig.cache
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\ref\BankAppWinForm.dll
+C:\Users\Decagon001\source\repos\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Form2.resources
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.exe
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.CreateAccount.resources
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Deposit.resources
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Home.resources
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Login.resources
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.NewForm.resources
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Register.resources
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.SOAInput.resources
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Transfer.resources
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Withdraw.resources
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AssemblyInfo.cs
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.deps.json
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.runtimeconfig.json
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.exe
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.pdb
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.CopyComplete
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\refint\BankAppWinForm.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.pdb
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.deps.json
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.runtimeconfig.json
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.pdb
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.genruntimeconfig.cache
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\ref\BankAppWinForm.dll
+C:\Users\User\Desktop\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AccountDetails.resources
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.deps.json
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.runtimeconfig.json
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.exe
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.exe
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.deps.json
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.runtimeconfig.json
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.pdb
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.pdb
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.AssemblyReference.cache
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AccountDetails.resources
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.CreateAccount.resources
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Deposit.resources
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Home.resources
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Login.resources
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.NewForm.resources
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Register.resources
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.SOAInput.resources
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Transfer.resources
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Withdraw.resources
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.GenerateResource.cache
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AssemblyInfoInputs.cache
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AssemblyInfo.cs
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.CoreCompileInputs.cache
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.CopyComplete
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\refint\BankAppWinForm.dll
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.pdb
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.genruntimeconfig.cache
+E:\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\ref\BankAppWinForm.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.deps.json
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.runtimeconfig.json
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.exe
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.exe
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.deps.json
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.runtimeconfig.json
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.pdb
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.pdb
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.AssemblyReference.cache
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AccountDetails.resources
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.CreateAccount.resources
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Deposit.resources
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Home.resources
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Login.resources
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.NewForm.resources
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Register.resources
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.SOAInput.resources
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Transfer.resources
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Withdraw.resources
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.GenerateResource.cache
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AssemblyInfoInputs.cache
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AssemblyInfo.cs
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.CopyComplete
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\refint\BankAppWinForm.dll
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.pdb
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.genruntimeconfig.cache
+C:\Users\Decagon001\source\repos\UpdatedBankApp\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\ref\BankAppWinForm.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.deps.json
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.runtimeconfig.json
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.exe
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.exe
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.deps.json
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.runtimeconfig.json
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.pdb
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.pdb
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.AssemblyReference.cache
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AccountDetails.resources
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.CreateAccount.resources
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Deposit.resources
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Home.resources
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Login.resources
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.NewForm.resources
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Register.resources
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.SOAInput.resources
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Transfer.resources
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Withdraw.resources
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.GenerateResource.cache
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AssemblyInfoInputs.cache
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AssemblyInfo.cs
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.CopyComplete
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\refint\BankAppWinForm.dll
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.pdb
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.genruntimeconfig.cache
+C:\Users\Decagon001\source\repos\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\ref\BankAppWinForm.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.deps.json
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.runtimeconfig.json
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.exe
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.exe
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.deps.json
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.runtimeconfig.json
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.pdb
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.pdb
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AccountDetails.resources
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.CreateAccount.resources
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Deposit.resources
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Home.resources
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Login.resources
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Register.resources
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.SOAInput.resources
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Transfer.resources
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Withdraw.resources
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.GenerateResource.cache
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.CopyComplete
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\refint\BankAppWinForm.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.pdb
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\ref\BankAppWinForm.dll
+C:\Users\Decagon\Desktop\week4\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Properties.Resources.resources
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.deps.json
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.runtimeconfig.json
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.exe
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.exe
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.deps.json
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.runtimeconfig.json
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankAppWinForm.pdb
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\bin\Debug\net6.0-windows\BankApp.pdb
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AccountDetails.resources
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.CreateAccount.resources
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Deposit.resources
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Home.resources
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Login.resources
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Properties.Resources.resources
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Register.resources
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.SOAInput.resources
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Transfer.resources
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.Withdraw.resources
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.GenerateResource.cache
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.csproj.CopyComplete
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\refint\BankAppWinForm.dll
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.pdb
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\BankAppWinForm.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\week4 - Copy (2)\BankAppWinForm\BankAppWinForm\obj\Debug\net6.0-windows\ref\BankAppWinForm.dll
